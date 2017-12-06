@@ -1,9 +1,12 @@
 <h2 align = "center">姜向俊的个人简历</h2>
 
 ### 1.个人信息
-* 姓名：姜向俊(`jc`)、 性别：男、 现居住地：*山东济宁*
+* 姓名：姜向俊
+* 性别：男
+* 现居住地：山东济宁
 * 毕业院校：山东大学
-* 联系电话：**18678763121**、E-Mail：**jiangjoker@qq.cn**
+* 联系电话：**18678763121**
+* 电子邮件：**jiangjoker@qq.cn**
 * 工作时间：2009年->至今
 * 博客：http://www.cnblogs.com/loweive 、GitHub：https://github.com/loweive
 * 求职意向：.NET/Java软件工程师
