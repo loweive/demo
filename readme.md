@@ -1,11 +1,11 @@
-<h2 align = "center">韩迎龙个人简历</h2>
+<h2 align = "center">姜向俊的个人简历</h2>
 
 ### 1.个人信息
-* 姓名：韩迎龙(`Kencery`)、 性别：男、 现居住地：*北京*
-* 毕业院校：长春工程学院
-* 联系电话：**18658152123**、E-Mail：**hyl934532778@live.cn**
-* 工作时间：2012年2月份->至今、工作年限：5年
-* 博客：http://www.cnblogs.com/hanyinglong 、GitHub：https://github.com/kencery
+* 姓名：姜向俊(`jc`)、 性别：男、 现居住地：*山东济宁*
+* 毕业院校：山东大学
+* 联系电话：**18678763121**、E-Mail：**jiangjoker@qq.cn**
+* 工作时间：2009年->至今
+* 博客：http://www.cnblogs.com/loweive 、GitHub：https://github.com/loweive
 * 求职意向：.NET/Java软件工程师
 
 ### 2.开源项目/博客
