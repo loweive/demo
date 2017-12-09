@@ -18,3 +18,15 @@ git push -u origin master
 cd existing_git_repo
 git remote add origin https://git.oschina.net/name/package.git
 git push -u origin master
+
+
+git remote add origin https://github.com/loweive/solution.git
+
+
+defaults write com.apple.finder AppleShowAllFiles YES
+
+defaults write com.apple.finder AppleShowAllFiles NO
+
+
+git config --global user.name "Your Name"
+    git config --global user.email you@example.com
