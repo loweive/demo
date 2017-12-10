@@ -1,3 +1,6 @@
 bin
 obj
+bower_components
+node_modules
+library
 .vscode
